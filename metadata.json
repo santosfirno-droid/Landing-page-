@@ -1,0 +1,6 @@
+{
+  "name": "Minha Rotina Aí - Landing Page Oficial",
+  "description": "Organize seu dia. Viva no seu ritmo. Conheça o Minha Rotina Aí com Modo Agora, rotinas inteligentes e acesso vitalício por R$49,90 sem mensalidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
