@@ -95,7 +95,7 @@ export const OfferSection: React.FC<OfferSectionProps> = ({ onOpenCheckout }) =>
             {/* CTA Button */}
             <div className="mt-10">
               <a
-                href="https://pay.cakto.com.br/4d3ugka_1134346"
+                href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-3 rounded-2xl bg-gradient-to-r from-blue-600 via-blue-500 to-blue-600 py-4 px-6 text-base sm:text-lg font-bold text-white shadow-xl shadow-blue-600/30 hover:shadow-blue-600/50 hover:from-blue-700 hover:to-blue-700 active:scale-[0.99] transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
               >
                 <span>QUERO O MINHA ROTINA AÍ</span>

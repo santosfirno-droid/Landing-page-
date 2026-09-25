@@ -24,7 +24,7 @@ export const FinalCtaSection: React.FC<FinalCtaProps> = ({ onOpenCheckout }) => 
 
         <div className="mt-8 flex flex-col items-center justify-center gap-4">
           <a
-            href="https://pay.cakto.com.br/4d3ugka_1134346"
+            href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-3 rounded-2xl bg-gradient-to-r from-blue-600 via-blue-500 to-blue-600 px-10 py-4 text-lg font-bold text-white shadow-xl shadow-blue-600/25 hover:shadow-blue-600/40 hover:from-blue-700 hover:to-blue-700 active:scale-[0.98] transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
           >
             <span>QUERO COMEÇAR</span>

@@ -92,7 +92,7 @@ export const HowItWorksSection: React.FC<HowItWorksProps> = ({ onOpenCheckout })
         {/* Action Prompt */}
         <div className="mt-14 text-center">
           <a
-            href="https://pay.cakto.com.br/4d3ugka_1134346"
+            href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-xl bg-blue-50 border border-blue-200 px-6 py-3.5 text-sm font-bold text-blue-700 hover:bg-blue-100 hover:text-blue-800 transition-all cursor-pointer shadow-sm"
           >
             <span>Quero experimentar essa clareza no meu dia a dia</span>

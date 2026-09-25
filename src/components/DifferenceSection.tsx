@@ -116,7 +116,7 @@ export const DifferenceSection: React.FC<DifferenceSectionProps> = ({ onOpenChec
             <p className="text-sm text-slate-600 mt-1">Acesso vitalício sem mensalidades por apenas R$ 49,90.</p>
           </div>
           <a
-            href="https://pay.cakto.com.br/4d3ugka_1134346"
+            href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-6 py-3.5 text-sm font-bold text-white hover:bg-blue-700 active:scale-95 transition-all shadow-md shadow-blue-600/25 cursor-pointer whitespace-nowrap"
           >
             <span>COMEÇAR COM O MODO AGORA</span>

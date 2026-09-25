@@ -329,7 +329,7 @@ export const ModoAgoraSection: React.FC<ModoAgoraSectionProps> = ({ onOpenChecko
                 <span>Zero esforço para saber qual é o próximo passo. O app cuida do fluxo.</span>
               </div>
               <a
-                href="https://pay.cakto.com.br/4d3ugka_1134346"
+                href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 font-bold text-blue-600 hover:text-blue-700 cursor-pointer"
               >
                 <span>Garantir acesso por R$ 49,90</span>

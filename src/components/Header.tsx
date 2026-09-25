@@ -75,7 +75,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenCheckout }) => {
         {/* Zone 3: Primary Action */}
         <div className="flex items-center gap-3">
           <a
-            href="https://pay.cakto.com.br/4d3ugka_1134346"
+            href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
             className="hidden sm:inline-flex items-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-xs font-bold text-white shadow-md shadow-blue-600/20 hover:bg-blue-700 active:scale-[0.98] transition-all whitespace-nowrap cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
           >
             <span>COMEÇAR AGORA</span>
@@ -129,7 +129,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenCheckout }) => {
             </button>
             <div className="pt-3">
               <a
-                href="https://pay.cakto.com.br/4d3ugka_1134346"
+                href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}
                 className="w-full flex items-center justify-center gap-2 rounded-xl bg-blue-600 py-3 text-sm font-bold text-white shadow-md shadow-blue-600/30 hover:bg-blue-700 active:scale-[0.98] transition-all cursor-pointer"
               >
