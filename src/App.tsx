@@ -21,7 +21,7 @@ import { Footer } from './components/Footer.tsx';
 import { CheckoutModal } from './components/CheckoutModal.tsx';
 import { ArrowRight, Sparkles } from 'lucide-react';
 
-export const CHECKOUT_URL = 'https://pay.kiwify.com.br/OeRLnBX';
+export const CHECKOUT_URL = 'https://go.pepperpay.com.br/wgkhx';
 
 export default function App() {
   const [isCheckoutOpen, setIsCheckoutOpen] = useState(false);
@@ -112,7 +112,7 @@ export default function App() {
               <span className="text-slate-500 font-medium"> · Vitalício</span>
             </div>
             <a
-              href="https://pay.kiwify.com.br/OeRLnBX" target="_blank" rel="noopener noreferrer"
+              href="https://go.pepperpay.com.br/wgkhx" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 rounded-xl bg-blue-600 px-4 py-2 text-xs font-bold text-white shadow-md shadow-blue-600/25 hover:bg-blue-700 active:scale-95 transition-all cursor-pointer whitespace-nowrap"
             >
               <span>COMEÇAR AGORA</span>
